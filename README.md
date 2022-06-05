@@ -46,9 +46,3 @@
 | `yarn run start`      | (alias of `yarn run start-dev`)                                               |
 
 **Note**: replace `yarn` with `npm` in `package.json` if you use npm.
-
-## See also
-
-- [React Javascript Babel Starter](https://github.com/syukronarie/react-javascript-babel-starter)
-- [Snowpack](https://github.com/snowpackjs/snowpack)
-- [Create React App](https://github.com/facebook/create-react-app)
